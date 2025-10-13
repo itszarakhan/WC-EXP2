@@ -9,8 +9,8 @@ A simple bookstore website named "TurnThePage" built with HTML and CSS.
 - Web Computing Lab - Semester 5
 
 ## 🚀 How to View
-1. Download EXP2.html
-2. Open in any web browser
+1. Download the EXP2 folder which contains index.html and styles.css.
+2. Open index.html in any web browser.
 
 ## 🏫 College
 AIKTC, School of Engineering & Technology.
